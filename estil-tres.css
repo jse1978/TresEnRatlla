@@ -1,0 +1,16 @@
+#tot{
+	width: 75%;
+	margin: 0 auto;
+	background-color: red;
+}
+
+h1{
+	text-align: center;
+}
+
+
+#canvasContainer{
+	width: 50%;
+	margin: 20px auto;
+	background-color: green;
+}
